@@ -230,6 +230,7 @@ public class word2ascii {
 				}
 			}
 		}
+		
 		inputReader.close();
 	}
 }
