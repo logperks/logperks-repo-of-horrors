@@ -66,6 +66,15 @@ public class word2ascii {
 					System.out.println(letter + blank + letter + letter + letter);
 					System.out.println(letter + blank + blank + blank + letter);
 					System.out.println(letter + letter + letter + letter + letter);
+					break;
+				case 'H':
+					System.out.println(letter + blank + blank + blank + letter);
+					System.out.println(letter + blank + blank + blank + letter);
+					System.out.println(letter + letter + letter + letter + letter);
+					System.out.println(letter + blank + blank + blank + letter);
+					System.out.println(letter + blank + blank + blank + letter);
+					break;
+					
 			}	
 		}
 		return "";
