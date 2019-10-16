@@ -188,6 +188,38 @@ public class word2ascii {
 					System.out.println(blank + blank + letter + blank + blank);
 					System.out.println();
 					break;
+				case 'W':
+					System.out.println(letter + blank + letter + blank + letter);
+					System.out.println(letter + blank + letter + blank + letter);
+					System.out.println(letter + blank + letter + blank + letter);
+					System.out.println(letter + blank + letter + blank + letter);
+					System.out.println(blank + letter + blank + letter + blank);
+					System.out.println();
+					break;
+				case 'X':
+					System.out.println(letter + blank + blank + blank + letter);
+					System.out.println(blank + letter + blank + letter + blank);
+					System.out.println(blank + blank + letter + blank + blank);
+					System.out.println(blank + letter + blank + letter + blank);
+					System.out.println(letter + blank + blank + blank + letter);
+					System.out.println();
+					break;
+				case 'Y':
+					System.out.println(letter + blank + blank + blank + letter);
+					System.out.println(letter + blank + blank + blank + letter);
+					System.out.println(blank + letter + blank + letter + blank);
+					System.out.println(blank + blank + letter + blank + blank);
+					System.out.println(blank + blank + letter + blank + blank);
+					System.out.println();
+					break;
+				case 'Z':
+					System.out.println(letter + letter + letter + letter + letter);
+					System.out.println(blank + blank + blank + letter + blank);
+					System.out.println(blank + blank + letter + blank + blank);
+					System.out.println(blank + letter + blank + blank + blank);
+					System.out.println(letter + letter + letter + letter + letter);
+					System.out.println();
+					break;
 			}	
 		}
 		return "";
