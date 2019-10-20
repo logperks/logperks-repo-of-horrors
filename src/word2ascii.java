@@ -8,7 +8,7 @@ public class word2ascii {
 	//XXXXX
 	
 	public static String transferLine(String word, String letter) {
-		String blank = ":black_large_square:";
+		String blank = " ";
 
 		for (int i = 0; i < word.length(); i++) {
 			switch (Character.toUpperCase(word.charAt(i))){
